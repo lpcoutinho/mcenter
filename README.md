@@ -1,11 +1,3 @@
-<p align="center">
-    <a href="https://github.com/change.me/mcenter/actions">
-        <img alt="GitHub Actions status" src="https://github.com/change.me/mcenter/actions/workflows/main.yml/badge.svg">
-    </a>
-    <a href="https://github.com/change.me/mcenter/releases"><img alt="Release Status" src="https://img.shields.io/github/v/release/change.me/mcenter"></a>
-</p>
-
-
 # mcenter
 
 ## Architecture
